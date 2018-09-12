@@ -17,7 +17,7 @@ It has some tests in `tests` folder
 ## Project setup
 
 ```
-yarn install
+yarn
 ```
 
 ### Compiles and hot-reloads for development
