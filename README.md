@@ -2,7 +2,7 @@
 
 An application to help you learn common phrases in Polish. More than 30.000 sentences. Ready to use offline! Built with [Vue](https://vuejs.org/) and [Tailwindcss](https://tailwindcss.com/).
 
-Live: [plen.netlify.com](https://converty.netlify.com)
+Live: [plen.netlify.com](https://plen.netlify.com)
 
 ![Screenshot of plen](docs/screenshot.png)
 
