@@ -12,11 +12,11 @@
         <hr class="border my-8 ml-0 w-24">
 
         <div class="content-links">
-          <BaseLink href="#" class="my-3" external="true">
+          <BaseLink href="https://github.com/koca/plen" class="my-3" external="true">
             Send feedbacks & requests
           </BaseLink>
-          <BaseLink href="#" class="my-3" external="true">View source code on Github</BaseLink>
-          <BaseLink href="#" class="my-3" external="true">Follow me on Twitter</BaseLink>
+          <BaseLink href="https://github.com/koca/plen" class="my-3" external="true">View source code on Github</BaseLink>
+          <BaseLink href="https://twitter.com/imesutkoca" class="my-3" external="true">Follow me on Twitter</BaseLink>
         </div>
       </div>
       <div class="content-botto">

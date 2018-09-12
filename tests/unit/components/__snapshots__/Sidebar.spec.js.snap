@@ -12,9 +12,9 @@ exports[`Sidebar.vue renders properly 1`] = `
       </p>
       <hr class="border my-8 ml-0 w-24">
       <div class="content-links">
-        <div class="stubbed-baselink my-3" href="#" external="true"></div>
-        <div class="stubbed-baselink my-3" href="#" external="true"></div>
-        <div class="stubbed-baselink my-3" href="#" external="true"></div>
+        <div class="stubbed-baselink my-3" href="https://github.com/koca/plen" external="true"></div>
+        <div class="stubbed-baselink my-3" href="https://github.com/koca/plen" external="true"></div>
+        <div class="stubbed-baselink my-3" href="https://twitter.com/imesutkoca" external="true"></div>
       </div>
     </div>
     <div class="content-botto">
