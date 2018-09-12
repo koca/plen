@@ -1,0 +1,13 @@
+@tailwind preflight;
+
+@tailwind components;
+
+@tailwind utilities;
+
+.u-align-center {
+  @apply flex items-center justify-center;
+}
+
+body {
+  background: #fafafa;
+}

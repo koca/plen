@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BaseButton.vue renders properly 1`] = `<button class="btn-base sm:hover:bg-dark focus:outline-none px-3 u-align-center h-full"></button>`;

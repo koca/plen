@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Sidebar.vue renders properly 1`] = `
+<div class="sidebar">
+  <div class="content bg-white fixed h-full pin-t pin-l p-4 flex flex-col justify-between">
+    <div class="content-top">
+      <h1 class="text-purple-dark">PLEN</h1>
+      <p class="mt-6 leading-normal">
+        An application to help you learn common phrases in Polish.
+        <br>More than 30.000 sentences.
+        <br>Ready to use offline!
+      </p>
+      <hr class="border my-8 ml-0 w-24">
+      <div class="content-links">
+        <div class="stubbed-baselink my-3" href="#" external="true"></div>
+        <div class="stubbed-baselink my-3" href="#" external="true"></div>
+        <div class="stubbed-baselink my-3" href="#" external="true"></div>
+      </div>
+    </div>
+    <div class="content-botto">
+      Made with ❤️ by <div class="stubbed-baselink" href="https://mesutkoca.com"></div>
+    </div>
+  </div>
+  <div class="backdrop fixed cursor-pointer"></div>
+</div>
+`;

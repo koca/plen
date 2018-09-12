@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SentenceItem.vue renders properly 1`] = `
+<div class="sentence">
+  <div class="mb-4 p-4 relative shadow bg-white"><span class="absolute pin-r pin-t text-grey p-4">0</span> <span highlight="hi">en1</span>
+    <div class="my-2 border-b-2 w-4"></div> <span bold="true">pl1</span></div>
+</div>
+`;
