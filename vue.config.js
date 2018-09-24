@@ -2,7 +2,10 @@ module.exports = {
   lintOnSave: false,
 
   pwa: {
-    themeColor: "#673AB7"
+    themeColor: "#673AB7",
+    workboxOptions: {
+      importScripts: ["sw-events.js"]
+    }
   },
   configureWebpack: config => {
     //workerize-loader issue
